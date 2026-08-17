@@ -270,9 +270,6 @@ python:
   - name: MemgraphToolkit
     pypi: langchain-memgraph
     docs_url: https://github.com/memgraph/langchain-memgraph
-  - name: ApifyActorsTool
-    pypi: langchain-apify
-    docs_url: https://docs.apify.com/integrations/langchain
   - name: AproxPayProxyGetTool
     pypi: langchain-aproxpay
     docs_url: https://github.com/aproxpay/langchain-aproxpay
@@ -1367,9 +1364,6 @@ python:
     pypi: langchain-dewey
     docs_url: https://github.com/meetdewey/langchain-dewey
   document_loaders:
-  - name: ApifyDatasetLoader
-    pypi: langchain-apify
-    docs_url: https://docs.apify.com/storage/dataset
   - name: PyMuPDF4LLMLoader
     pypi: langchain-pymupdf4llm
     docs_url: https://github.com/pymupdf/langchain-pymupdf4llm
